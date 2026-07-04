@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Build output
+dist/
+output/
+build/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
