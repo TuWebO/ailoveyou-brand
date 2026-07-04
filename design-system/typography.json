@@ -1,0 +1,19 @@
+{
+  "fontFamily": "Geist",
+  "weights": {
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700
+  },
+  "sizes": {
+    "display": 64,
+    "h1": 48,
+    "h2": 36,
+    "h3": 30,
+    "h4": 24,
+    "body": 16,
+    "small": 14,
+    "caption": 12
+  }
+}
